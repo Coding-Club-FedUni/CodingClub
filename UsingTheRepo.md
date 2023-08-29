@@ -1,6 +1,6 @@
 # If you havent already done so setup Git and create an account on Github
 
-**If youre unsure of how to do so send me a dm on teams**
+**If youre unsure of how to do so send a dm on teams or disc**
 
 
 
@@ -14,7 +14,7 @@
 
 3.  Type in the following
 
-4.  ``` $ git clone ```
+4.  ``` $ git clone https://github.com/divi4/codingClub```
 
 5.  Press Enter
 
@@ -27,7 +27,7 @@
 
 3.  Type in the following
 
-4.  ```$ git clone ```
+4.  ```$ git clone https://github.com/divi4/codingClub```
 
 5.  Press Enter
 
