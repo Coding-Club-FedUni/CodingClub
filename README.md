@@ -28,33 +28,33 @@ https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-gith
 
 Happy Sharing!
 
-<hr style="border:2px solid gray">
+<hr style="border:2px solid black">
 
 ## Content  
-* Career  
-    * Advice  
-    * Freelancing  
-    * Job boards  
-    * Job interview practice  
-    * Networking  
-* Front-end dev  
-    * Learning material  
-        * Courses and lectures  
-        * Other material  
-    * CSS  
-    * HTML  
-    * Design  
-    * Javascript  
-* Misc.  
-* Newsletters
-* Practice problems  
-* Productivity and life  
-* Tech  
-    * AI  
-    * VR/AR  
-* Tools  
-    * Git  
-    * Misc tools  
+* [Career(#career)  
+    * [Advice(#advice)  
+    * [Freelancing(#freelancing)  
+    * [Job boards(#job-boards)  
+    * [Job interview practice(#job-interview-practice)  
+    * [Networking(#networking)  
+* [Front-end dev(#front-end-dev)  
+    * [Learning material(#learning-material)  
+        * [Courses and lectures(#courses-and-lectures)  
+        * [Other material(#other-material)  
+    * [CSS(#css)  
+    * [HTML(#html)  
+    * [Design(#design)  
+    * [Javascript(#javascript)  
+* [Misc.(#misc.)  
+* [Newsletters(#newsletters)  
+* [Practice problems(#practice-problems)  
+* [Productivity and life(#productivity-and-life)  
+* [Tech(#tech)  
+    * [AI(#ai)  
+    * [VR/AR(#vrar)  
+* [Tools(#tools)  
+    * [Git(#git)  
+    * [Misc tools(#misc-tools)  
 
 ## Career  
 * Get advice from a career counsellor: https://federation.edu.au/current-students/assistance-support-and-services/student-development-and-careers/current-students/concertina-items/finding-a-job  
