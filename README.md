@@ -47,8 +47,8 @@ Happy Sharing!
     * [Javascript](#javascript)  
 * [Misc.](#misc-) 🤷  
 * [Newsletters](#newsletters-) 📰  
-* [Practice problems](#practice-problems-) ✏️  
-* [Productivity and life](#productivity-and-life-) 🏃‍♀️  
+* [Practice problems](#practice-problems-%EF%B8%8F) ✏️  
+* [Productivity and life](#productivity-and-life-%EF%B8%8F) 🏃‍♀️  
 * [Tech](#tech-) 🔬  
     * [AI](#ai)  
     * [VR/AR](#vrar)  
