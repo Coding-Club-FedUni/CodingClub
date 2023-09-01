@@ -31,7 +31,7 @@ Happy Sharing!
 <hr style="border:2px solid black">
 
 ## Content  
-* [Career](#career)💼  
+* [Career](#career) 💼  
     * [Advice](#advice)  
     * [Freelancing](#freelancing)  
     * [Job boards](#job-boards)  
@@ -56,7 +56,7 @@ Happy Sharing!
     * [Git](#git)  
     * [Misc tools](#misc-tools)  
 
-## Career💼  
+## Career 💼  
 * Get advice from a career counsellor: https://federation.edu.au/current-students/assistance-support-and-services/student-development-and-careers/current-students/concertina-items/finding-a-job  
 Federation has a lot of resources for students exploring their career options, I suggest you ask them for a 15 minute meeting, they're really helpful
 
