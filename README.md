@@ -6,7 +6,7 @@ Please post your resources here to share with your fellow club members. And be s
 
 Please read the below contribution guidelines and kindly write a short description of what the URL relates to and if you'd like, your name so we know who to thank!
 
-Be sure to also read our [code of conduct](CODE_OF_CONDUCT.md)
+Be sure to also read our [code of conduct](CODE_OF_CONDUCT.md).
 
 ### How to use the repo!
 
@@ -37,7 +37,7 @@ Happy Sharing!
     * [Job boards](#job-boards)  
     * [Job interview practice](#job-interview-practice)  
     * [Networking](#networking)  
-* [Front-end dev](#front-end-dev) 🤓  
+* [Front-end dev](#front-end-dev) 🌐  
     * [Learning material](#learning-material)  
         * [Courses and lectures](#courses-and-lectures)  
         * [Other material](#other-material)  
@@ -106,7 +106,7 @@ An article explaining the importance of pinned tweets when it comes to networkin
 
 [👆 Back To Top](#table-of-contents)
 
-## Front-end dev 🤓  
+## Front-end dev 🌐  
 Additional front-end dev resources can be found on [FrontEndResources.md](FrontEndResources.md)
 
 ### Learning material
