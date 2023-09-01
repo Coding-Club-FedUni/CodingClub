@@ -1,6 +1,6 @@
 Hiya Feds, welcome to...
 
-# Coding Club!
+# Coding Club!🎉
 
 Please post your resources here to share with your fellow club members. And be sure to add your socials to the [socials page](Socials.md) to expand your professional network!
 
@@ -31,7 +31,7 @@ Happy Sharing!
 <hr style="border:2px solid black">
 
 ## Content  
-* [Career](#career)  
+* 💼 [Career](#career)  
     * [Advice](#advice)  
     * [Freelancing](#freelancing)  
     * [Job boards](#job-boards)  
