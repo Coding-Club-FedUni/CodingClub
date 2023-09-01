@@ -30,14 +30,14 @@ Happy Sharing!
 
 <hr style="border:2px solid black">
 
-## Content  
+## Table of contents  
 * [Career](#career) 💼  
     * [Advice](#advice)  
     * [Freelancing](#freelancing)  
     * [Job boards](#job-boards)  
     * [Job interview practice](#job-interview-practice)  
     * [Networking](#networking)  
-* [Front-end dev](#front-end-dev)  
+* [Front-end dev](#front-end-dev) 🤓  
     * [Learning material](#learning-material)  
         * [Courses and lectures](#courses-and-lectures)  
         * [Other material](#other-material)  
@@ -45,14 +45,14 @@ Happy Sharing!
     * [HTML](#html)  
     * [Design](#design)  
     * [Javascript](#javascript)  
-* [Misc.](#misc.)  
-* [Newsletters](#newsletters)  
-* [Practice problems](#practice-problems)  
-* [Productivity and life](#productivity-and-life)  
-* [Tech](#tech)  
+* [Misc.](#misc.) 🤷  
+* [Newsletters](#newsletters) 📰  
+* [Practice problems](#practice-problems) ✏️  
+* [Productivity and life](#productivity-and-life) 🏃‍♀️  
+* [Tech](#tech) 🔬  
     * [AI](#ai)  
     * [VR/AR](#vrar)  
-* [Tools](#tools)  
+* [Tools](#tools) 🔨  
     * [Git](#git)  
     * [Misc tools](#misc-tools)  
 
@@ -104,8 +104,9 @@ Mock interviews with industry experts
 * The Importance of pinned tweets: https://www.creativebloq.com/inspiration/how-a-simple-pinned-tweet-can-win-you-new-work  
 An article explaining the importance of pinned tweets when it comes to networking
 
+[👆 Back To Top](#table-of-contents)
 
-## Front-end dev  
+## Front-end dev 🤓  
 Additional front-end dev resources can be found on [FrontEndResources.md](FrontEndResources.md)
 
 ### Learning material
@@ -145,6 +146,8 @@ A repo that contains resources on how to monitor the performance of your code to
 * How does HTTPS actually work?: https://robertheaton.com/2014/03/27/how-does-https-actually-work/  
 A article explaining what HTTPS is, what it does and goes into the SSL/TLS encryption protocols that gives HTTPS its "S"
 
+[👆 Back To Top](#table-of-contents)
+
 ### CSS  
 * Stacked "borders": https://css-tricks.com/stacked-borders/  
 A neat article showing to the extent you can customise the outline of elements with CSS
@@ -158,12 +161,16 @@ Another detailed guide explaining how to use and make CSS animations
 * Awesome web animation: https://github.com/sergey-pimenov/awesome-web-animation
 A list of tools for creating web animations
 
+[👆 Back To Top](#table-of-contents)
+
 ### HTML  
 * Exhaustive list of HTML special characters: https://www.w3schools.com/charsets/ref_html_entities_a.asp  
 A exhaustive (or at least _very_ extensive) list of special characters available in HTML
 
 * HTML5 please: https://html5please.com/  
 This site helps assist you in making decisions about providing support for older browsers and how to do it, with such things as fallbacks or polyfills
+
+[👆 Back To Top](#table-of-contents)
 
 ### Design  
 * Building a colour palette: https://refactoringui.com/previews/building-your-color-palette  
@@ -172,27 +179,36 @@ An article on how to select and create a great colour palette for your website
 * 2021 UI Design Trend: Glassmorphism: https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7  
 An article that provides details on the latest trend occuring in UI design, Glassmorphism, and how to make it, important when clients catch on
 
+[👆 Back To Top](#table-of-contents)
+
 ### Javascript  
 * Use console.log like a pro: https://markodenic.com/use-console-log-like-a-pro/  
-A short article listing all the features console.log has so you can use it for more effective debuggin
+A short article listing all the features console.log has so you can use it for more effective debugging
 
+[👆 Back To Top](#table-of-contents)
 
-## Misc.  
+## Misc. 🤷  
 * How to use google to solve your programming questions: https://codinginflow.com/google-programming-questions  
 Tips on how to use google to help quickly find the answers to your programming questions
 
 * The Zettelkasten method: https://zettelkasten.de/introduction/  
 A detailed explanation on the Zettelkasten method, a thinking tool for creating a interconnected web of information
 
-## Newsletters  
+[👆 Back To Top](#table-of-contents)
+
+## Newsletters 📰  
 **Hacker Newsletter:** https://hackernewsletter.com/  
 A weekly newletter that rounds up what has been occurring in the tech community, highly recommend
 
-## Practice problems  
+[👆 Back To Top](#table-of-contents)
+
+## Practice problems ✏️  
 * Leetcode: https://leetcode.com/problemset/all/  
 A collection of problem sets mainly geared towards those who are preparing for interviews. The site also includes extensive articles on different programming concepts
 
-## Productivity and life  
+[👆 Back To Top](#table-of-contents)
+
+## Productivity and life 🏃‍♀️  
 * Breaking procrastination with the Fogg Behaviour model: https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model  
 A model that explains the phenomenon of procrastination and practical steps to prevent it
 
@@ -202,18 +218,20 @@ A article on how to balance your side-projects with your full-time work
 * How to be great? Just be good, repeatably: https://blog.stephsmith.io/how-to-be-great/  
 A fantastic article on building habits and working towards long term goals
 
-## Tech  
+[👆 Back To Top](#table-of-contents)
+
+## Tech 🔬  
 
 ### AI  
 * The GPT-3 architecture explained: https://dugas.ch/artificial_curiosity/GPT_architecture.html  
 A quite good explanation of the architecture that makes the GPT-3 model, summarising papers and explaining the subject as simple as possible   
 
+[👆 Back To Top](#table-of-contents)
+
 ### VR/AR  
 
 
-## Tools  
-* Diff-checker: https://www.diffchecker.com/text-compare/  
-Useful in quickly identifying differences between blocks of code or between expected and actual output  
+## Tools 🔨  
 
 ### Git  
 * Resources to learn Git: https://try.github.io/  
@@ -222,6 +240,12 @@ A site containing a select group of beginner resources to help you to start lear
 * Git exercises: https://gitexercises.fracz.com/  
 A set of exercises involving git, designed to help you to understand git related concepts
 
+[👆 Back To Top](#table-of-contents)
+
 ### Misc tools  
+* Diff-checker: https://www.diffchecker.com/text-compare/  
+Useful in quickly identifying differences between blocks of code or between expected and actual output  
+
+[👆 Back To Top](#table-of-contents)
 
 
