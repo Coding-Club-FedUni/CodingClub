@@ -1,4 +1,4 @@
-Hiya Feds, 
+Hiya Feds, welcome to...
 
 # Coding Club!
 
