@@ -31,13 +31,13 @@ Happy Sharing!
 <hr style="border:2px solid black">
 
 ## Table of contents  
-* [Career](#career) 💼  
+* [Career](#career-) 💼  
     * [Advice](#advice)  
     * [Freelancing](#freelancing)  
     * [Job boards](#job-boards)  
     * [Job interview practice](#job-interview-practice)  
     * [Networking](#networking)  
-* [Front-end dev](#front-end-dev) 🌐  
+* [Front-end dev](#front-end-dev-) 🌐  
     * [Learning material](#learning-material)  
         * [Courses and lectures](#courses-and-lectures)  
         * [Other material](#other-material)  
@@ -45,14 +45,14 @@ Happy Sharing!
     * [HTML](#html)  
     * [Design](#design)  
     * [Javascript](#javascript)  
-* [Misc.](#misc.) 🤷  
-* [Newsletters](#newsletters) 📰  
-* [Practice problems](#practice-problems) ✏️  
-* [Productivity and life](#productivity-and-life) 🏃‍♀️  
-* [Tech](#tech) 🔬  
+* [Misc.](#misc-) 🤷  
+* [Newsletters](#newsletters-) 📰  
+* [Practice problems](#practice-problems-) ✏️  
+* [Productivity and life](#productivity-and-life-) 🏃‍♀️  
+* [Tech](#tech-) 🔬  
     * [AI](#ai)  
     * [VR/AR](#vrar)  
-* [Tools](#tools) 🔨  
+* [Tools](#tools-) 🔨  
     * [Git](#git)  
     * [Misc tools](#misc-tools)  
 
@@ -110,7 +110,7 @@ An article explaining the importance of pinned tweets when it comes to networkin
 Additional front-end dev resources can be found on [FrontEndResources.md](FrontEndResources.md)
 
 ### Learning material
-**Courses and lectures**  
+### **Courses and lectures**  
 * Mozilla's full front-end web developer course: https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer  
 A course created by Mozilla that helps you to learn the concepts needed to become a front-end web developer
 
@@ -130,7 +130,7 @@ An extensive text-guided course that covers Javascript from the beginning to mor
 A project-oriented course on fullstack development  
 The repo that demostrates how the same project can be made with different stacks: https://github.com/gothinkster/realworld
 
-**Other material**
+## **Other material**  
 * Website mockups: https://nicepage.com/website-mockup  
 A website with over 5000 website examples to use as reference for doing layout practice
 
