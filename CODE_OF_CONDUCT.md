@@ -47,23 +47,23 @@ threatening, offensive, or harmful.
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
+representing a project or community include using an official university e-mail
 address, posting via an official social media account, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+further defined and clarified by club leadership.
 
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at ibm786@icloud.com. All
+reported by contacting the club through David at dm2@students.federation.edu.au or the university directly: https://federation.edu.au/safer-campuses/how-to-disclose-or-report. Depending on the severity of the issue, Student Equity may be referred to. All
 complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
+is deemed necessary and appropriate to the circumstances. The club is
 obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
+Members who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+members of the club's leadership.
 
 ## Attribution
 

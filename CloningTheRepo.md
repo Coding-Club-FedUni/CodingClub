@@ -1,12 +1,12 @@
 # If you havent already done so setup Git and create an account on Github
 
-**If youre unsure of how to do so send a dm on teams or disc**
+**If you're unsure of how to do so send a dm on teams or disc**
 
 
 
 ##  **Here are instructions on how to clone the repo**
 
-### **On a mac/linux**
+### **On mac/linux**
 
 1.  Open Terminal.
 
@@ -14,12 +14,12 @@
 
 3.  Type in the following
 
-4.  ``` $ git clone https://github.com/divi4/codingClub```
+4.  ``` $ git clone https://github.com/Coding-Club-FedUni/CodingClub.git```
 
 5.  Press Enter
 
 
-## **On a windows**
+## **On windows**
 
 1.  Open Git Bash.
 
@@ -27,7 +27,7 @@
 
 3.  Type in the following
 
-4.  ```$ git clone https://github.com/divi4/codingClub```
+4.  ```$ git clone https://github.com/Coding-Club-FedUni/CodingClub.git```
 
 5.  Press Enter
 
