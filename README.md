@@ -1,6 +1,6 @@
 Hiya Feds, welcome to...
 
-# Coding Club!🎉
+# FedTech!🎉
 
 Please post your resources here to share with your fellow club members. And be sure to add your socials to the [socials page](Socials.md) to expand your professional network!
 
